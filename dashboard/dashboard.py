@@ -10,7 +10,7 @@ warnings.filterwarnings('ignore')
 
 st.set_page_config(page_title="Beijing Air Quality Analysis")
 
-merged_df = pd.read_csv("dataset/air-quality-dataset-merged.csv")
+merged_df = pd.read_csv("./dashboard/air-quality-dataset-merged.csv")
 merged_df['datetime'] = pd.to_datetime(merged_df['datetime'])
 
 
