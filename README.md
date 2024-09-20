@@ -1,7 +1,7 @@
 # Beijing Air Quality Analysis Project
 
 ## Dashboard URL
-()
+https://farrasrafi-air-quality-analysis.streamlit.app/
 
 ---
 
@@ -78,7 +78,7 @@ Ensure you have the following software and libraries installed:
 4. **Run the Streamlit Dashboard**  
    Launch the dashboard using Streamlit:
    ```bash
-   streamlit run app.py
+   streamlit run dashboard/dashboard.py
    ```
 
 5. **Explore the Dashboard**  
