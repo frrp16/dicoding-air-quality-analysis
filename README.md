@@ -51,8 +51,8 @@ Ensure you have the following software and libraries installed:
 1. **Clone the Repository**  
    Download the project files by cloning the repository:
    ```bash
-   git clone https://github.com/your-username/air-quality-analysis.git
-   cd air-quality-analysis
+   git clone https://github.com/frrp16/dicoding-air-quality-analysis.git
+   cd dicoding-air-quality-analysis
    ```
 
 2. **Set Up a Virtual Environment (optional but recommended)**  
